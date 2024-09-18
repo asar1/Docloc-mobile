@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DocLoc</string>
+    <string name="facebook_app_id">2670045833265661</string>
+    <string name="fb_login_protocol_scheme">fb559217872077116</string>
+    <string name="facebook_client_token">a534f0843e52039e298e0bc8973e9f19</string>
+    <!-- <string name="facebook_app_id">559217872077116</string> -->
+    <!-- <string name="fb_login_protocol_scheme">fb2670045833265661</string> -->
+
+    <!-- Tomorrows task -->
+    <!-- test apis implemented in app
+    and fininsh facebook -->
+</resources>
